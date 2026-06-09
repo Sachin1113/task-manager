@@ -6,9 +6,7 @@ A full-stack personal task manager built with **Node.js + Express** on the backe
 
 ## Live Demo
 
-> *(Deploy to Render + Vercel/Netlify and paste links here)*
-> - **Frontend:** https://your-app.vercel.app
-> - **Backend:** https://your-api.onrender.com
+
 
 ---
 
